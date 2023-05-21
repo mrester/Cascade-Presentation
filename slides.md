@@ -22,10 +22,15 @@
 * Reduziert Aufwand für manuelles **Speichern**
 * Reduziert Aufwand für manuelles **Löschen**
 --
-## Beispiel
-![image](https://github.com/mrester/Cascade-Presentation/assets/95427647/f6163dd7-3f5c-444f-befa-98efd27c9c8d)
+## Beispiele
+* Entity Cart.php
+![image](https://github.com/mrester/Cascade-Presentation/assets/95427647/fea07e54-4e1e-49d0-b839-a840d93f90ee)
+---
 
+* Entity CartProduct.php
+![image](https://github.com/mrester/Cascade-Presentation/assets/95427647/8293b0db-82fe-40b2-ad0c-1ee498ffa9f1)
 --
+
 ## Styles
 
 You can freely mix **bold**, *italics*, `code` and normal styles
