@@ -7,12 +7,12 @@
 * Automatische Übertragung von Aktionen von einem übergeordneten Objekt auf seine verknüpften Kindobjekte
 ---
 
-<!-- .slide:  data-transition="slide"-->
+<!-- .slide:  data-transition="convex-in concave-out"-->
 ## Persist
 * Übergeordnete Objekt und seine Kindobjekte werden DB gespeichert 
 ---
 
-<!-- .slide:  data-transition="slide"-->
+<!-- .slide:  data-transition="convex-in concave-out"-->
 ## Remove
 * Übergeordnete Objekt und seine Kindobjekte werden aus DB gelöscht 
 --
