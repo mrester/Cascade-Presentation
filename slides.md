@@ -7,10 +7,12 @@
 * Automatische Übertragung von Aktionen von einem übergeordneten Objekt auf seine verknüpften Kindobjekte
 ---
 
+<!-- .slide:  data-transition="slide"-->
 ## Persist
 * Übergeordnete Objekt und seine Kindobjekte werden DB gespeichert 
 ---
 
+<!-- .slide:  data-transition="slide"-->
 ## Remove
 * Übergeordnete Objekt und seine Kindobjekte werden aus DB gelöscht 
 --
@@ -20,7 +22,9 @@
 * Reduziert Aufwand für manuelles **Speichern**
 * Reduziert Aufwand für manuelles **Löschen**
 --
+## Beispiel
 
+--
 ## Styles
 
 You can freely mix **bold**, *italics*, `code` and normal styles
