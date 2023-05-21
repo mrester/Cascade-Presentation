@@ -1,7 +1,7 @@
 # Cascade Persist Remove
 --
 
-# Was ist Cascade persist & remove
+## Was ist Cascade persist & remove
 * Begriff, der im Kontext von **ORM** (Object-Relational Mapping) verwendet wird
 * Beschreibt Verhalten beim Speichern & Löschen von Objekten mit Beziehungen in einer DB
 * Automatische Übertragung von Aktionen von einem übergeordneten Objekt auf seine verknüpften Kindobjekte
