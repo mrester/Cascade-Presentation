@@ -18,9 +18,17 @@
 --
 
 ## Vorteile
-* Bequeme Verwaltung von Berziehungen zwischen Objekten
-* Reduziert Aufwand für manuelles **Speichern**
-* Reduziert Aufwand für manuelles **Löschen**
+* Datenintegrität
+* Vereinfachte Datenbankinteraktion
+* Flexibilität
+* Zeitersparnis
+---
+
+<!-- .slide:  data-transition="convex-in concave-out"-->
+## Nachteile
+* Schwierigkeiten bei der Datenmigration
+* Performance
+* Unerwartete Datenänderungen
 --
 
 ## Anwendung in Entity Cart.php
