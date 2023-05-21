@@ -9,12 +9,12 @@
 
 <!-- .slide:  data-transition="convex-in concave-out"-->
 ## Persist
-* Übergeordnete Objekt und seine "Kindobjekte" werden DB gespeichert 
+* Übergeordnete Objekt und seine "Kindobjekte" werden in DB gespeichert 
 ---
 
 <!-- .slide:  data-transition="convex-in concave-out"-->
 ## Remove
-* Übergeordnete Objekt und seine "Kindobjekte" werden aus DB gelöscht 
+* Übergeordnete Objekt und seine "Kindobjekte" werden aus aus DB gelöscht 
 --
 
 ## Vorteile
