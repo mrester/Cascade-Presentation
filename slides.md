@@ -1,16 +1,21 @@
 # Was ist Cascade persist remove
-> Begriff, der im Kontext von ORM (Object-Relational Mapping) verwendet wird
-> beschreibt Verhalten beim Speichern & Löschen von Objekten mit Beziehungen in einer DB
-> automatische Übertragung von Aktionen von einem übergeordneten Objekt auf seine verknüpften Kindobjekte
+* Begriff, der im Kontext von ORM (Object-Relational Mapping) verwendet wird
+* beschreibt Verhalten beim Speichern & Löschen von Objekten mit Beziehungen in einer DB
+* automatische Übertragung von Aktionen von einem übergeordneten Objekt auf seine verknüpften Kindobjekte
 ---
 
 ## Persist
-> übergeordnete Objekt und seine Kindobjekte werden DB gespeichert 
+* übergeordnete Objekt und seine Kindobjekte werden DB gespeichert 
 ---
 
 ## Remove
-> übergeordnete Objekt und seine Kindobjekte werden aus DB gelöscht 
+* übergeordnete Objekt und seine Kindobjekte werden aus DB gelöscht 
 
+--
+## Vorteile
+* Bequeme Verwaltung von Berziehungen zwischen Objekten
+* Reduziert Aufwand für manuelles Speichern
+* Reduziert Aufwand für manuelles Löschen
 --
 
 ## Styles
