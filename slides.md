@@ -23,6 +23,7 @@
 * Reduziert Aufwand für manuelles **Löschen**
 --
 ## Beispiel
+![image](https://github.com/mrester/Cascade-Presentation/assets/95427647/f6163dd7-3f5c-444f-befa-98efd27c9c8d)
 
 --
 ## Styles
